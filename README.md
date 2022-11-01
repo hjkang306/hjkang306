@@ -31,7 +31,7 @@
 	<p>🌵 Portfolio & SNS 🌵</p>
 </div>
 <div align=center>
-	<a href="https://hjkang306.dothome.co.kr">
+	<a href="http://hjkang306.dothome.co.kr/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://hjkang306.tistory.com">
@@ -50,7 +50,7 @@
 	<p>🐠 Project 🐠</p>
 </div>
 <div align=center>
-	<a href="https://hjkang306.dothome.co.kr/backup/project">
+	<a href="http://hjkang306.dothome.co.kr/backup/project/index.html">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://early-airport-bd1.notion.site/PLANNING-63ce86e8c4a34cb0a8a3778a1887c57f">
