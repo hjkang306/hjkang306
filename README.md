@@ -10,7 +10,7 @@
 </p>
 ### 🌵 웹 서버 🌵
 <p>
-  <a href="https://hjkang306.dothome.co.kr"><img alt="Dothome" src="https://img.shields.io/badge/dothome-skyblue?logo=dothome&logoColor=white"></a>
+  <a href="https://hjkang306.dothome.co.kr"><img alt="Dothome" src="https://img.shields.io/badge/dothome-61DAFB?logo=dothome&logoColor=white"></a>
   <a href="https://vueclass333.web.app"><img alt="Firebase" src="https://img.shields.io/badge/firebase-yellow?logo=firebase&logoColor=white"></a>
 </p>
 
