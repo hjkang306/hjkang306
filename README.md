@@ -60,11 +60,11 @@
 </div>  
 <br>
 <br>
-<div>
-	<a href="https://gregarious-capybara-b6c609.netlify.app/">리액트 사이트1</a>
+<div align=center>
+	<a href="https://gregarious-capybara-b6c609.netlify.app/">리액트 사이트1</a><br>
 	<a href="https://vueclass333.web.app/">뷰 사이트1</a>
-	<br>
-	<a href="https://reliable-stroopwafel-896bf8.netlify.app/">리액트 API 사이트</a>
+	<br><br>
+	<a href="https://reliable-stroopwafel-896bf8.netlify.app/">리액트 API 사이트</a><br>
 	<a href="https://vue-api333.web.app/">뷰 API 사이트</a>
 </div>
 <br>
