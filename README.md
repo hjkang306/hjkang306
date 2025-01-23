@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+	<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
@@ -53,9 +53,7 @@
 	<a href="http://hjkang306.dothome.co.kr/backup/project/index.html">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="https://early-airport-bd1.notion.site/PLANNING-63ce86e8c4a34cb0a8a3778a1887c57f">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<br>
 </div>  
 <br>
@@ -70,6 +68,7 @@
 <br>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjkang306&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hjkang306&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjkang306&layout=compact">
+	<!-- <br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=hjkang306&show_icons=true"> -->
 </div>
